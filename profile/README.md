@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 👋Welcome to Yimai's Org
 
 # _Homework of Git Basics_
@@ -105,3 +106,17 @@ _没解决的问题_
 
 
 * 还没用IDEA操作git，都是在用vscode
+=======
+## Hi there 👋
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+>>>>>>> 2e2b6ddf113baf5e14132e45cf64765fcf59ab61
