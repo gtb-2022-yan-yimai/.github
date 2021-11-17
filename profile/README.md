@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 👋Welcome to Yimai's Org
 
 # _Homework of Git Basics_
